@@ -15,7 +15,6 @@ BS Mathematics student at Bahauddin Zakariya University (BZU), Multan — buildi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📌 Featured Projects
-- **[Infinity-X](https://github.com/iharooniqbal/Infinity-X)** — Self-improving AI assistant chaining multiple free-tier LLM APIs
 - **[HARNECT](https://github.com/iharooniqbal/HARNECT2)** — Instagram-style social media platform
 
 ### 🔗 Connect
