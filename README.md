@@ -5,7 +5,7 @@
 - 🔭 Currently building **Infinity-X**, a self-improving AI assistant that chains multiple free-tier LLM APIs with smart routing and local fallback
 - 🌱 Also built **HARNECT**, an Instagram-style social platform from scratch
 - 💼 Interning at Meezan Bank
-- 📚 Interested in where math, data, and AI intersect
+- 📚 Interested in where data, and AI intersect
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
